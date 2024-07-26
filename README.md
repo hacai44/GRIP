@@ -4,16 +4,20 @@
     <a style="text-decoration:none !important;" href="https://doi.org/10.1016/j.scs.2024.105531" alt="arXiv"><img src="https://img.shields.io/badge/paper-SCS-blue" /></a>
     <a style="text-decoration:none !important;" href="https://www.empa.ch/web/caha" alt="website"><img src="https://img.shields.io/badge/website-Empa-red" /></a>
     <a style="text-decoration:none !important;" href="https://opensource.org/licenses/MIT" alt="License"><img src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
-    <a style="text-decoration:none !important;" href="https://mybinder.org/v2/gh/hacai44/GRIP/main?labpath=Example.ipynb" alt="License"><img src="https://mybinder.org/badge_logo.svg" /></a>
-
 </p>
 
 Run the code directly in your browser by clicking the `launch binder` button above or use this <a href="https://mybinder.org/v2/gh/hacai44/GRIP/main?labpath=Example.ipynb"><code>jupyter notebook link.</code></a>
 
-<h3 align="center" style="margin-bottom:0px; border-bottom:0px; padding-bottom:0px">Example notebook</h3>
+<h3 align="center" style="margin-bottom:0px; border-bottom:0px; padding-bottom:0px">Notebooks</h3>
 <ul>
-    <li><a href="https://github.com/hacai44/GRIP/blob/main/Example.ipynb"><code>Example.ipynb</code></a>: Example of flexibility envelope calculation.</li>
+    <li><a style="text-decoration:none !important;" href="https://mybinder.org/v2/gh/hacai44/GRIP/main?labpath=Example.ipynb" alt="License"><img src="https://mybinder.org/badge_logo.svg" /></a>
+<a href="https://github.com/hacai44/GRIP/blob/main/Example.ipynb"><code>Example.ipynb</code></a>: Example of flexibility envelope calculation.</li>
 </ul>
+<ul>
+    <li><a style="text-decoration:none !important;" href="https://mybinder.org/v2/gh/hacai44/GRIP/main?labpath=Data_explanation.ipynb" alt="License"><img src="https://mybinder.org/badge_logo.svg" /></a>
+<a href="https://github.com/hacai44/GRIP/blob/main/Data_explanation.ipynb"><code>Data_explanation.ipynb</code></a>: Explanation of experimental dataset, available here https://polybox.ethz.ch/index.php/s/Ti8FyQ38diDC7SD</li>
+</ul>
+
 
 <h3 align="center" style="margin-bottom:0px; border-bottom:0px; padding-bottom:0px">Citation</h3>
 <p>
@@ -65,3 +69,6 @@ author = {Mingzhou Yin and Hanmin Cai and Andrea Gattiglio and Fazel Khayatian a
 }</code></pre>
 
 Code available here (will be updated): https://www.research-collection.ethz.ch/handle/20.500.11850/646090
+
+<h3 align="center" style="margin-bottom:0px; border-bottom:0px; padding-bottom:0px">Related datasets</h3>
+Experimental dataset used in the publication can be found here: https://polybox.ethz.ch/index.php/s/Ti8FyQ38diDC7SD
